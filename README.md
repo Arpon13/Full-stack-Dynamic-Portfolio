@@ -1,3 +1,14 @@
+# Full-stack Dynamic Portfolio
+
+This is a Full Stack Dynamic Portfolio that contains my information, including my description, education, skills, projects, and work experiences.
+
+![photo_2025-05-25_13-04-41](https://github.com/user-attachments/assets/7569332a-c903-4b92-ab3d-d3feb97a42de)  
+![photo_2025-05-25_13-04-46](https://github.com/user-attachments/assets/72beae8c-951c-4f84-ba19-8ef08203d922)
+
+---
+
+## Laravel Framework
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
