@@ -19,10 +19,14 @@
   </div>
 </header>
 
+
+
     <div class="container">
-    <img src="https://png.pngtree.com/png-clipart/20230927/original/pngtree-man-avatar-image-for-profile-png-image_13001882.png" alt="Your Name" class="profile-img">
-    <h1 class="name">Md Asif Shahriar Arpon</h1>
+    <img class="profile-img" src="https://png.pngtree.com/png-clipart/20230927/original/pngtree-man-avatar-image-for-profile-png-image_13001882.png" alt="Your Name"  >
+    <h1 class="name" id = "username" >Md Asif Shahriar Arpon</h1>
     <p class="subtitle">Hello, I am a Data Sceintists with excellent skills with python, Scikit learn, SQl etc.</p>
+    <button class="btn" id = "btn">Click Me</button>
   </div>
+  <script src="{{ asset('assets/js/script.js') }}"></script> 
 </body>
 </html>
